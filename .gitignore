@@ -1,6 +1,7 @@
 /target
 
 /.vscode
+/result
 
 mantra/examples/mantra_report.*
 mantra/examples/usage.db
